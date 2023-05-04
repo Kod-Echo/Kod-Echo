@@ -23,23 +23,24 @@ Oferecendo uma ampla variedade de produtos sustentáveis, desde cuidados pessoai
    
 
 ## 🛠️: Etapas do Desenvolvimento:
-   ### Back-end
+    
+### Back-end
 - [x] Definição do escopo do projeto -> E-Commerce
-- [x] Modelagem do Banco de Dados utilizando MySQL seguindo o modelo DER
-- [x] Criação do projeto utilizando JAVA e Spring Boot
+- [x] Modelagem do Banco de Dados utilizando MySQL e seguindo o modelo DER
+- [x] Criação do projeto utilizando JAVA e Spring Boot Tools
   
 ### Front-end
    
-- [x] Implemenntação dos componentes do Front-End (- Header - Navbar 
+- [x] Implemenntação dos componentes do Front-End (- Navbar 
                                            - Footer
+                                           - Home
                                            - Página de Login
                                            - Página de Cadastro
                                            - Página de Sobre
                                            - Página Produtos
                                            - Página Categorias)
-    
 - [x] Conectar o Back com o Front 
-- [x]  CRUD
+- [x] CRUD
 - [x] Deploy
     
 
