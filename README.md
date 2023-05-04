@@ -4,8 +4,8 @@
 
 <h1 align="center"><img src="https://i.postimg.cc/xT2FVtGK/logo-s-fundo.png" alt="Kod-eco" width="200" heigth= "200"></h1>
 <h1 align="center">KOD-ECO</h1> 
-<h3 align="center">Kod-Eco vem da junção das  palavras Kodama + Eco</h3><br>
-<h3 align="center">Um kodama é um yokai do folclore japonês. Conhecido entre os espíritos da floresta,  atuam protegendo a natureza e seu equilíbrio.</h3><br>
+<h5 align="center">Kod-Eco vem da junção das  palavras Kodama + Eco</h5>
+<h5 align="center">Um kodama é um yokai do folclore japonês. Conhecido entre os espíritos da floresta,  atuam protegendo a natureza e seu equilíbrio.</h5><br>
 
 ## 📚: Descrição do projeto:
 <p style="text=align: justify;"> A Kod-Eco é uma empresa de e-commerce especializada em oferecer produtos biodegradáveis e ecológicos. 
